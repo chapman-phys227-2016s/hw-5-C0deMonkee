@@ -2,7 +2,7 @@
 
 **Author:** _\<your name\>_
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-C0deMonkee.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-C0deMonkee)
 
 **Due date:** 2016/03/08
 
@@ -32,4 +32,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Austin Ayers
