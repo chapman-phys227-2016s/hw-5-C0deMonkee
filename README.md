@@ -1,6 +1,6 @@
 # PHYS227 HW 5
 
-**Author:** _\<your name\>_
+**Author:** Austin Ayers
 
 [![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-C0deMonkee.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-C0deMonkee)
 
