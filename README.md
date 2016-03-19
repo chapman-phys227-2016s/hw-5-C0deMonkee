@@ -21,7 +21,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw5.ipynb```
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+Taught me a lot about plotting and graphing things with pyplot.
 
 ## Honor Pledge
 
